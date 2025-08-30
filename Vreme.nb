@@ -1,0 +1,75 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[      2194,         67]
+NotebookOptionsPosition[      1611,         49]
+NotebookOutlinePosition[      2020,         65]
+CellTagsIndexPosition[      1977,         62]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"data", "=", 
+   RowBox[{"Import", "[", "\"\<vreme_arhiv.csv\>\"", "]"}]}], "\n"}]], "Input",
+ CellChangeTimes->{{3.9655543593844223`*^9, 3.9655544071292076`*^9}, {
+  3.9655546013844967`*^9, 3.9655546367938633`*^9}},
+ CellLabel->"In[10]:=",ExpressionUUID->"d7a498f7-3acf-c347-afca-f55d4924ab1f"],
+
+Cell[BoxData[
+ TemplateBox[{
+  "Import", "nffil", 
+   "\"File \\!\\(\\*RowBox[{\\\"\\\\\\\"vreme_arhiv.csv\\\\\\\"\\\"}]\\) not \
+found during \\!\\(\\*RowBox[{\\\"Import\\\"}]\\).\"", 2, 10, 8, 
+   28932175316922705168, "Local"},
+  "MessageTemplate",
+  BaseStyle->"MSG"]], "Message",
+ CellChangeTimes->{{3.9655546302737694`*^9, 3.965554637341568*^9}},
+ CellLabel->
+  "During evaluation of \
+In[10]:=",ExpressionUUID->"a4ad5f5c-2bef-e74f-a06f-5f1b463de6c2"],
+
+Cell[BoxData["$Failed"], "Output",
+ CellChangeTimes->{{3.965554381990162*^9, 3.96555440826968*^9}, {
+  3.965554605257616*^9, 3.965554637360777*^9}},
+ CellLabel->"Out[10]=",ExpressionUUID->"72214e26-160a-c045-9812-ffda3a30b304"]
+}, Open  ]]
+},
+WindowSize->{569.25, 624.75},
+WindowMargins->{{429, Automatic}, {42, Automatic}},
+FrontEndVersion->"14.2 for Microsoft Windows (64-bit) (December 26, 2024)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"500036b0-e730-7d4a-af31-6722944badb1"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[576, 22, 329, 6, 47, "Input",ExpressionUUID->"d7a498f7-3acf-c347-afca-f55d4924ab1f"],
+Cell[908, 30, 457, 11, 26, "Message",ExpressionUUID->"a4ad5f5c-2bef-e74f-a06f-5f1b463de6c2"],
+Cell[1368, 43, 227, 3, 32, "Output",ExpressionUUID->"72214e26-160a-c045-9812-ffda3a30b304"]
+}, Open  ]]
+}
+]
+*)
+
