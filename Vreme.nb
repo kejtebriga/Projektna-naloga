@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[      2194,         67]
-NotebookOptionsPosition[      1611,         49]
-NotebookOutlinePosition[      2020,         65]
-CellTagsIndexPosition[      1977,         62]
+NotebookDataLength[      2326,         70]
+NotebookOptionsPosition[      1834,         53]
+NotebookOutlinePosition[      2243,         69]
+CellTagsIndexPosition[      2200,         66]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -22,29 +22,33 @@ Notebook[{
 Cell[CellGroupData[{
 Cell[BoxData[
  RowBox[{
-  RowBox[{"data", "=", 
-   RowBox[{"Import", "[", "\"\<vreme_arhiv.csv\>\"", "]"}]}], "\n"}]], "Input",
+  RowBox[{
+   RowBox[{"sheet", " ", "=", " ", 
+    RowBox[{"Import", "[", 
+     RowBox[{"\"\</podatki/Vreme_arhiv.xlsx\>\"", ",", " ", 
+      RowBox[{"{", 
+       RowBox[{"\"\<XLSX\>\"", ",", " ", "\"\<Data\>\""}], "}"}]}], "]"}]}], 
+   ";"}], "\n"}]], "Input",
  CellChangeTimes->{{3.9655543593844223`*^9, 3.9655544071292076`*^9}, {
-  3.9655546013844967`*^9, 3.9655546367938633`*^9}},
- CellLabel->"In[10]:=",ExpressionUUID->"d7a498f7-3acf-c347-afca-f55d4924ab1f"],
+  3.9655546013844967`*^9, 3.9655546367938633`*^9}, {3.965554870054678*^9, 
+  3.9655549570030384`*^9}, {3.9655549923345966`*^9, 3.965555009128437*^9}, {
+  3.9655551522339325`*^9, 3.9655551869656296`*^9}},
+ CellLabel->"In[22]:=",ExpressionUUID->"d7a498f7-3acf-c347-afca-f55d4924ab1f"],
 
 Cell[BoxData[
  TemplateBox[{
   "Import", "nffil", 
-   "\"File \\!\\(\\*RowBox[{\\\"\\\\\\\"vreme_arhiv.csv\\\\\\\"\\\"}]\\) not \
-found during \\!\\(\\*RowBox[{\\\"Import\\\"}]\\).\"", 2, 10, 8, 
+   "\"File \\!\\(\\*RowBox[{\\\"\\\\\\\"/podatki/Vreme_arhiv.xlsx\\\\\\\"\\\"}\
+]\\) not found during \\!\\(\\*RowBox[{\\\"Import\\\"}]\\).\"", 2, 22, 19, 
    28932175316922705168, "Local"},
   "MessageTemplate",
   BaseStyle->"MSG"]], "Message",
- CellChangeTimes->{{3.9655546302737694`*^9, 3.965554637341568*^9}},
+ CellChangeTimes->{{3.9655546302737694`*^9, 3.965554637341568*^9}, {
+   3.9655549228392735`*^9, 3.9655549595246468`*^9}, 3.9655550106471176`*^9, {
+   3.9655551665097027`*^9, 3.9655551888808765`*^9}},
  CellLabel->
   "During evaluation of \
-In[10]:=",ExpressionUUID->"a4ad5f5c-2bef-e74f-a06f-5f1b463de6c2"],
-
-Cell[BoxData["$Failed"], "Output",
- CellChangeTimes->{{3.965554381990162*^9, 3.96555440826968*^9}, {
-  3.965554605257616*^9, 3.965554637360777*^9}},
- CellLabel->"Out[10]=",ExpressionUUID->"72214e26-160a-c045-9812-ffda3a30b304"]
+In[22]:=",ExpressionUUID->"35b10dd7-86e5-cf42-90dc-af10f33b931d"]
 }, Open  ]]
 },
 WindowSize->{569.25, 624.75},
@@ -65,9 +69,8 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[576, 22, 329, 6, 47, "Input",ExpressionUUID->"d7a498f7-3acf-c347-afca-f55d4924ab1f"],
-Cell[908, 30, 457, 11, 26, "Message",ExpressionUUID->"a4ad5f5c-2bef-e74f-a06f-5f1b463de6c2"],
-Cell[1368, 43, 227, 3, 32, "Output",ExpressionUUID->"72214e26-160a-c045-9812-ffda3a30b304"]
+Cell[576, 22, 639, 13, 47, "Input",ExpressionUUID->"d7a498f7-3acf-c347-afca-f55d4924ab1f"],
+Cell[1218, 37, 600, 13, 26, "Message",ExpressionUUID->"35b10dd7-86e5-cf42-90dc-af10f33b931d"]
 }, Open  ]]
 }
 ]
