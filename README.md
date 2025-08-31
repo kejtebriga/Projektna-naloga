@@ -1,5 +1,5 @@
 # Projektna-naloga
-# Vremenska analiza (Portorož in Ljubljana)
+# Analiza vremenea v Portorož in Ljubljana
 
 V seminarski nalogi so analizirani vremenski podatki za mesti **Portorož** in **Ljubljana**.  
 Podatki vključujejo temperature, količino padavin, relativno vlago, zračni tlak, hitrost vetra in število posebnih vremenskih dni.  
