@@ -1,0 +1,115 @@
+Dober dan, danes bom predstavila svojo seminarsko nalogo, 
+ki obravnava vremenske značilnosti dveh slovenskih mest, 
+in sicer Portoroža in Ljubljane.
+Cilj naloge je bil primerjati podnebne značilnosti obeh mest na podlagi
+različnih vremenskih podatkov, kot so temperature, padavine, vlaga,
+zračni tlak, veter in število posebnih vremenskih dni.
+
+1. Povprečne temperature zraka
+
+Najprej imamo tu grafa temperatur zraka nad 2m najprej za Portorož potem za Ljubljano.
+
+Tu so prikazane povprečne mesečne temperature za obe mesti.
+Kot lahko vidimo, ima Ljubljana precej hladnejše zime, saj se temperature 
+pogosto spustijo pod ničlo, medtem ko je v Portorožu zima precej milejša. 
+Poleti pa se razlika zmanjša, saj so temperature v obeh mestih visoke, okoli 25 stopinj Celzija.
+To je posledica vpliva morja v Portorožu, ki blaži temperaturna nihanja skozi leto.
+
+2. Maksimalne in minimalne temperature
+
+Na naslednjih grafih so prikazane povprečne maksimalne in minimalne temperature.
+Iz grafa lahko razberemo, da ima Ljubljana večja temperaturna nihanja –
+njene zime so bolj hladne, poletja pa bolj vroča. Portorož pa ima blažje razlike, 
+saj so njegove minimalne temperature višje, poletne maksimalne pa nekoliko nižje.
+Tudi tukaj je jasno viden vpliv morja.
+
+3. Relativna vlaga
+
+Na grafu povprečne relativne vlage opazimo, da ima Ljubljana višjo vlago, 
+zlasti v jesenskih in zimskih mesecih.
+V Portorožu so poletja bolj suha, kar je značilno za mediteransko podnebje. 
+Razlika med mestoma je najbolj izrazita v poletnih mesecih, 
+ko Ljubljana ostane bolj vlažna kot obala.
+
+4. Zračni tlak
+
+Če pogledamo graf zračnega tlaka, lahko opazimo, da so vrednosti med mestoma dokaj podobne.
+Kljub temu pa so v Ljubljani rahla nihanja nekoliko bolj izrazita. 
+Portorož je zaradi morske lege bolj stabilen, kar je tudi značilno za obalno območje.
+
+5. Hitrost vetra
+
+Na grafu hitrosti vetra je razvidno, da ima Portorož več dni z močnim vetrom. 
+To ni presenetljivo, saj je obala izpostavljena burji in drugim vetrovnim pojavom.
+V Ljubljani pa so močni vetrovi redkejši, zato je klima tam nekoliko bolj mirna.
+
+6. Padavine
+
+Sedaj si oglejmo padavine.
+Na grafih količine padavin vidimo, da ima Ljubljana skozi vse leto več padavin kot Portorož.
+V Portorožu so poletja bolj suha, kar je značilno za sredozemsko podnebje. 
+Jeseni in spomladi pa so padavine v obeh mestih dokaj visoke.
+Pri grafih števila dni s padavinami je vzorec podoben – 
+Ljubljana ima več dni z dežjem, kar potrjuje,
+da je v notranjosti Slovenije podnebje bolj vlažno.
+
+Graf maksimlanih padavin. Ljubljana doseže ekstremne vrednosti maja in septembra 
+(~112  mm), Portorož pa septembra (~80  mm) . MILIMETROV
+Graf jasno pokaže, kateri mesec ima največje posamezne padavine v obeh mestih
+
+7. Posebni vremenski dnevi
+
+Na naslednjih grafih so prikazani posebni vremenski dnevi.
+Hladni dnevi: V Ljubljani jih je precej več, saj se temperature pogosto spustijo pod ničlo.
+Topli dnevi: V Ljubljani je število toplih dni večje kot v Portorožu. 
+    To pomeni, da so poletja v Ljubljani pogosto toplejša, saj se dnevne 
+    temperature večkrat povzpnejo nad 25 °C. 
+    V Portorožu je teh dni manj, kar je posledica vpliva morja, ki temperaturo nekoliko blaži.
+Vroči dnevi: Pri vročih dneh je razlika še bolj izrazita – Ljubljana ima precej več dni z nad 30 °C. 
+            To potrjuje, da so poletja v notranjosti države bolj vroča in suha. 
+            V Portorožu vročih dni skoraj ni, saj morje deluje kot naravni regulator 
+            toplote in ublaži vročinske ekstreme.
+Toplih noči: Teh je več v Portorožu, kar je razumljivo, saj morje ponoči oddaja toploto 
+in blaži ohlajanje zraka.
+
+8. Število dni z močnim vetrom.
+
+Portorož ima več dni z močnim vetrom pozimi in v jeseni . 
+Ljubljana ima nekaj več dni spomladi in jeseni, a povprečno manj kot obala
+(bf je oznaka za moč vetra, lestvica gre od 1 do 12)
+
+9. primerjava padavin
+Dnevi z vsaj 0,1 mm padavin prikazujejo, koliko dni je sploh padalo, tudi če malo. 
+Ljubljana ima skozi leto več takih dni kot Portorož, kar kaže na pogostejše padavine.
+
+Dnevi z več kot 10 mm padavin kažejo bolj izrazite padavinske dogodke. 
+Spet je Ljubljana nekoliko pogostejša, še posebej spomladi in jeseni. 
+Portorož ima največ takih dni v jesenskih mesecih, poleti pa skoraj nič.
+
+Dnevi z več kot 20 mm padavin prikazujejv Ljubljani največ Maja meseca ter v pozni jeseni.
+Portorž pa bolj v jesenei. tu bi rekla da je najbolj močan meseca oktober.
+
+Sepravi
+
+Ljubljana ima skozi leto več padavinskih dni, kar pomeni bolj vlažno podnebje.
+Portorož ima poleti zelo malo dni z močnejšimi padavinami, kar je tipično za mediteransko podnebje.
+Najmočnejše padavinske epizode so večinoma jeseni.
+
+10. Skupni graf padavin in temperature
+
+Na koncu sem naredila še skupni graf, kjer so na isti sliki prikazane 
+padavine in povprečna temperatura.
+Iz grafa je lepo razvidno, da so poleti, ko so temperature najvišje, padavine najnižje – 
+torej velja obratno razmerje.
+Jeseni, ko temperature padajo, pa padavine spet narastejo.
+
+Zaključek
+
+Če povzamem glavne ugotovitve:
+Ljubljana ima večje temperaturne razlike in več padavin.
+Portorož ima blažje zime, manj padavin poleti in več toplih noči.
+Relativna vlaga je v Ljubljani višja, veter pa močnejši v Portorožu.
+Posebni vremenski dnevi se močno razlikujejo: Ljubljana je bolj izpostavljena mrazu, 
+                                                Portorož pa toplejšim nočem in vetru.
+
+Hvala za pozornost!
