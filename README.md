@@ -1,8 +1,18 @@
 # Projektna-naloga
-# Analiza vremenskih podatkov po Sloveniji
+# Vremenska analiza (Portorož in Ljubljana)
 
-Ta projekt analizira vremenske podatke za Slovenijo od januarja do decembra 2024. Vzela bom 5 največjih mest v slovaniji, tako da so razporejeni po različnih delih Slvenije.
-Podatki so pridobljeni iz ARSO in shranjeni v Excelovi datoteki. 
-V analizi uporabljamo Mathematica za vizualizacijo temperatur, padavin in iskanje sprememb skozi leto. 
-Projekt vključuje grafe, histograme,...
-Cilj je raziskati sezonske spremembe, ter na podlagi temperature in padavine ugotoviti kje je najbolj idealno podnebje .
+V seminarski nalogi so analizirani vremenski podatki za mesti **Portorož** in **Ljubljana**.  
+Podatki vključujejo temperature, količino padavin, relativno vlago, zračni tlak, hitrost vetra in število posebnih vremenskih dni.  
+
+## Metode
+Za primerjavo sem uporabila različne grafe, s katerimi je prikazana letna dinamika vremena v obeh mestih.
+
+## Ugotovitve
+- Ljubljana ima več padavin kot Portorož.  
+- V Portorožu so poletja bolj suha, a z več toplimi nočmi.  
+- Ljubljana ima hladnejše zime in več hladnih dni.  
+- V Portorožu je več dni z močnim vetrom.  
+
+## Avtor
+Seminarsko nalogo pripravila: *Veronika Tomažič*  
+Leto: 2024/25
